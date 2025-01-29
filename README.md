@@ -8,10 +8,3 @@ Hi there! 👋 I'm @preety1984
 
 preety1984/preety1984 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-project on predictive analytics and fraud detection in insurance involves several stages and focuses, as outlined in your presentation. 
-
-Project Overview:
-Objective: To analyze an insurance claims dataset for fraud detection and uncover key trends related to claim patterns and customer demographics.
-Goal: Streamline operations, reduce fraud, and improve customer satisfaction.
-
